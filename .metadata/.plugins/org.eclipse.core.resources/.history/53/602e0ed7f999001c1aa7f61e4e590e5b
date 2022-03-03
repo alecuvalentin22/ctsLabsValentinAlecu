@@ -1,0 +1,8 @@
+package ro.ase.acs.example;
+
+public enum ProductType {
+HIGH_AVAILABILITY(1),
+MEDIUM_AVAILABILITY(2),
+LOW_AVAILABILITY(3),
+CRITICAL_AVAILABILITY(4)
+}
