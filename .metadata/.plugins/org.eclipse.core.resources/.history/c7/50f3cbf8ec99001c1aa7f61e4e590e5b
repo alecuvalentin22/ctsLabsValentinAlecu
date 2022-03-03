@@ -1,7 +1,0 @@
-package ro.ase.acs;
-
-public class ConstantVariables {
-	public String examOOP = "OOP Exam";
-	public String examJava = "Java Exam";
-	
-}

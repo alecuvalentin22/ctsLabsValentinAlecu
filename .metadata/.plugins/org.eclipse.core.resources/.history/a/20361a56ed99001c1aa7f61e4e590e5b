@@ -1,9 +1,0 @@
-package ro.ase.acs;
-
-public class ConstantVariables {
-	public String EXAM_OOP = "OOP Exam";
-	public String EXAM_JAVA = "Java Exam";
-	public String EXAM_DS = "Data structure Exam";
-	public String EXAM_CS = "C# Exam";
-	public String EXAM_STAT = "Statistics Exam";
-}

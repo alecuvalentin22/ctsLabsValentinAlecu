@@ -1,6 +1,0 @@
-package ro.ase.acs;
-
-public class ConstantVariables {
-	public String examOOP;
-	
-}

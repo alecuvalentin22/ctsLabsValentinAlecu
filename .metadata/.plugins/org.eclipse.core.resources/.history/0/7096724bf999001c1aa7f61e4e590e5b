@@ -1,8 +1,0 @@
-package ro.ase.acs.example;
-
-public enum productType {
-HIGH_AVAILABILITY,
-MEDIUM_AVAILABILITY,
-LOW_AVAILABILITY,
-CRITICAL_AVAILABILITY
-}
